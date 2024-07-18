@@ -1,0 +1,14 @@
+A:link{color:blue}
+A:hover{color:magenta}
+Header{ border: 2px solid blue;
+background-color:antiquewhite;
+Width:100%;
+Margin-left:auto;
+Margin-right:auto;
+Color:red;
+Text-align:center;
+Box-shadow: 5px 5px green;
+}
+Nav ul li{display:inline-block;
+Font-size:32px
+}
